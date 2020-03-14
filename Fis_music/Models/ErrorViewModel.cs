@@ -1,6 +1,6 @@
 using System;
 
-namespace Fis_Music.Models
+namespace FisMusic.Models
 {
     public class ErrorViewModel
     {

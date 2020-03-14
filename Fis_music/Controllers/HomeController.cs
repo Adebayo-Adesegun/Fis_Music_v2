@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Fis_Music.Models;
+using FisMusic.Models;
 
-namespace Fis_Music.Controllers
+namespace FisMusic.Controllers
 {
     public class HomeController : Controller
     {
